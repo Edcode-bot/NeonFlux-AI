@@ -1,0 +1,23 @@
+# NeonFlux AI
+
+Welcome to NeonFlux AI! Our platform provides cutting-edge AI tools and resources designed to help users enhance their meditation practices and overall well-being.
+
+## Features
+
+- **AI-Powered Meditation Tools**: Access a variety of tools tailored for guided meditations and mindfulness.
+- **Personalized Experience**: Enjoy customized meditation sessions based on your preferences.
+- **Community Support**: Join our community for tips, tricks, and shared experiences.
+
+## Getting Started
+
+1. **Sign Up**: Create an account to access all features.
+2. **Explore Tools**: Browse through our range of meditation tools.
+3. **Utilize Resources**: Check out tutorials and guides to enhance your meditation journey.
+
+## License
+
+By using NeonFlux AI, you agree to our [license](#) which outlines the terms of use.
+
+## Contact
+
+For inquiries or support, please reach out to us at [support@neonfluxai.com](mailto:support@neonfluxai.com).

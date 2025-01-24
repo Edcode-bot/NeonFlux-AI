@@ -1,0 +1,20 @@
+# NeonFlux AI License Agreement
+
+## 1. Acceptance
+By accessing or using NeonFlux AI, you agree to the terms of this license.
+
+## 2. License Grant
+NeonFlux AI grants you a non-exclusive, non-transferable license to use the services and content for personal and educational purposes.
+
+## 3. Restrictions
+- Do not reproduce, distribute, or modify any content without permission.
+- Do not use the services for commercial purposes without prior consent.
+
+## 4. Disclaimers
+NeonFlux AI provides services "as is" without warranties. Use at your own risk.
+
+## 5. Modifications
+We reserve the right to amend this license at any time. Continued use signifies acceptance of changes.
+
+## 6. Governing Law
+This agreement is governed by the laws of [Your Jurisdiction].
