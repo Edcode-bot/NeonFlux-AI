@@ -1,0 +1,102 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #e0f7fa, #80deea); /* Tech-inspired gradient */
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+#container {
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #4A90E2;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.avatar {
+    display: block;
+    margin: 0 auto 20px;
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%;
+    border: 3px solid #4A90E2;
+}
+
+.input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+#question {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #D9E6F6;
+    border-radius: 6px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.icon-button {
+    background: #50E3C2;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 6px;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+.icon-button:hover {
+    background: #4A90E2;
+    box-shadow: 0 0 20px rgba(74, 144, 226, 0.7); /* Glowing effect */
+}
+
+button {
+    padding: 10px 15px;
+    background: #F5A623;
+    border: none;
+    border-radius: 6px;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background 0.3s, box-shadow 0.3s;
+}
+
+button:hover {
+    background: #D68A1D;
+    box-shadow: 0 0 20px rgba(245, 166, 35, 0.7); /* Glowing effect */
+}
+
+#response {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #777;
+}
+
+/* Styles for media previews */
+audio, img, video {
+    display: block;
+    margin: 10px 0;
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
